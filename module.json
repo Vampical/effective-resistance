@@ -1,0 +1,16 @@
+{
+    "name": "effective-resistance",
+    "author": "Vampic",
+    "version": "1.0.1",
+    "description": "Displays enemy resistance after your physical and magical piercing and flat resistance ignore.",
+    "disableAutoUpdate": false,
+    "options": {
+        "niceName": "Effective Resistance",
+        "cliName": "Effective Resistance",
+        "guiName": "Effective Resistance",
+        "reloadable": true
+    },
+    "servers": [
+        "https://raw.githubusercontent.com/Vampical/effective-resistance/main/"
+    ]
+}
